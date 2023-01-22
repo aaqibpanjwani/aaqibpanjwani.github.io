@@ -47,7 +47,6 @@ Photo dump of some serotonin boosting moments for myself
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20and%20evie%20all%20dressed%20up%20and%20ready%20to%20go.JPEG?raw=true" alt="teddy and evie all dressed up and ready to go" width="250"/>
 <img class="rotate_image"
      src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/first%20night%20getting%20ted.JPG?raw=true" alt="first night getting ted" width="250"/>
-
    </div>
    
 <br>
