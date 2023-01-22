@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a mental health advocate that is aiming to share knowledge and resources that have helped me along my journey. Coping mechanisms, insights, wisdoms, strategies, influencers, and texts that have played a role in helping me become a more caring, kind, and compassionate person.
 
 ### More Information
 
