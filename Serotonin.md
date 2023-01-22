@@ -35,6 +35,7 @@ Photo dump of some serotonin boosting moments for myself
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/evie%20getting%20caught.JPEG?raw=true" alt="evie getting caught" width="250"/>
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/the%20evie%20slouch.JPEG?raw=true" alt="evie the slouch" width="250"/>
   </div>
+   <div class="column">
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/evie%20snuggles.JPEG?raw=true" alt="evie snuggles" width="250"/>
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/evie%20the%20vet.JPEG?raw=true" alt="evie the vet" width="250"/>
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/evie's%20best%20snuggles.JPEG?raw=true" alt="evie's best snuggles" width="250"/>
