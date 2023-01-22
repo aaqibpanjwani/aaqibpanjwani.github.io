@@ -44,5 +44,6 @@ Photo dump of some serotonin boosting moments for myself
 <br>
 <div class="row">
    <div class="column">
-<img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/first%20night%20getting%20ted.JPG?raw=true" alt="first night getting ted" width="250";/>
+<img class="rotate_image"
+     src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/first%20night%20getting%20ted.JPG?raw=true" alt="first night getting ted" width="250"/>
 
