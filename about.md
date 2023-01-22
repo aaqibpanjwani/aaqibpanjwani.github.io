@@ -8,8 +8,8 @@ I'm a mental health advocate that is aiming to share knowledge and resources tha
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm just someone that's trying to help. I will be content as long as this helps one person.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contactme.mentalhealth.aaqib@gmail.com](mailto:contactme.mentalhealth.aaqib@gmail.com)
