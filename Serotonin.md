@@ -28,6 +28,7 @@ A list of Serotonin Boosters for Me
 ---
 Photo dump of some serotonin boosting moments for myself
 ---
+<br>
 **Evie**
 <br>
 <div class="row">
@@ -48,14 +49,13 @@ Photo dump of some serotonin boosting moments for myself
 
 <br>
 
-   **Teddy**
+   <strong>Teddy</strong>
 <div class="row">
    <div class="column">     
       <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/first%20night%20getting%20ted.JPG?raw=true" alt="first night getting ted" width="250"/>
    <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/little%20ted.JPG?raw=true" alt="little ted" width="250"/>
    <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20and%20coke%20bottle.JPG?raw=true" alt="teddy and coke bottle" width="250" height="445"/>
    <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/happy%20ted.jpeg?raw=true" alt="happy ted" width="250" height="445"/>
-      </p>
    
    
    </div>
