@@ -28,10 +28,8 @@ A list of Serotonin Boosters for Me
 ---
 Photo dump of some serotonin boosting moments for myself
 ---
-<br>
-<br>
 
-**Evie**
+## Evie
 <div class="row">
    <div class="column">
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/Evie%20being%20athletic.JPEG?raw=true" alt="Evie UP UP AND AWAY - evie being athletic" width="250" height="333"/>
@@ -50,7 +48,8 @@ Photo dump of some serotonin boosting moments for myself
 
 <br>
 
-   <strong>Teddy</strong>
+## Teddy
+
 <br>
    
 <div class="row">
