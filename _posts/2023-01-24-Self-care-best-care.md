@@ -7,7 +7,7 @@ title: Self Care Best Care
 
 ## From what I've learned and am continuing to learn/implement: Selfcare is the best form of care
 - Workout
-- Make a meal I really enjoy (breakfast is my go-to to treat my sweet tooth). Chocolate chip protein pancakes (almost) every morning :smile:
+- Make a meal I really enjoy (breakfast is my go-to to treat my sweet tooth). Chocolate chip protein pancakes (almost) every morning 😄
 - Watching youtube videos that bring me joy
 - Taking care of my overall hygiene (shower, brush teeth, etc)
 - Listen to my favorite music playlist
@@ -15,5 +15,5 @@ title: Self Care Best Care
 - Smile
 - Laugh
 - Play around, be joyful. It definitely makes it easier to do with my pups
-- Sometimes just say "fuck it" and do something impulsive, responsibly of course :laughing:
+- Sometimes just say "fuck it" and do something impulsive, responsibly of course 😆
 - If absolutely needed, take a break, take a moment, lay down, pause, **and breathe**
