@@ -30,6 +30,7 @@ Photo dump of some serotonin boosting moments for myself
 ---
 <br>
 <br>
+
 **Evie**
 <div class="row">
    <div class="column">
@@ -58,8 +59,15 @@ Photo dump of some serotonin boosting moments for myself
    <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/little%20ted.JPG?raw=true" alt="little ted" width="250"/>
    <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20and%20coke%20bottle.JPG?raw=true" alt="teddy and coke bottle" width="250" height="445"/>
    <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/happy%20ted.jpeg?raw=true" alt="happy ted" width="250" height="445"/>
-   
-   
+   <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/snazzy%20ted%20at%20the%20park.JPEG?raw=true" alt="snazzy ted at the park" width="250"/>
+   <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/ted's%20awkward%20lanky%20phase.JPG?raw=true" alt="ted's awkward lanky phase" width="250"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20and%20coke%20bottle.JPG?raw=true" alt="baby teddy and coke bottle" width="250" height="333"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20at%20trimtab.JPEG?raw=true" alt="teddy at trimtab" width="250"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20being%20a%20muddy%20mess.JPEG?raw=true" alt="muddy teddy" width="250"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20being%20cute%20with%20bone.JPEG?raw=true" alt="awkward ted with bone" width="250"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20glam%20shot.JPG?raw=true" alt="teddy glam shot" width="250"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/baby%20teddy%20snuggles.JPG?raw=true" alt="baby teddy snuggles" width="225" height="340"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/baby%20ted%20awoo.JPG?raw=true" alt="baby ted awoo" width="250"/>
    </div>
 
 
