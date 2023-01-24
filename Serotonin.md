@@ -45,9 +45,9 @@ Photo dump of some serotonin boosting moments for myself
 <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20and%20evie%20all%20dressed%20up%20and%20ready%20to%20go.JPEG?raw=true" alt="teddy and evie all dressed up and ready to go" width="250"/>
    
    </div>
-   
-## Teddy
 
+   <h2> Teddy </h2>
+   
 <br>
    
 <div class="row">
@@ -67,5 +67,4 @@ Photo dump of some serotonin boosting moments for myself
       <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/baby%20ted%20awoo.JPG?raw=true" alt="baby ted awoo" width="250"/>
       <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/the%20pups%20exploring%20the%20new%20bedroom.JPEG?raw=true" alt="pups exploring the new bedroom" width="400" height="333"/>
    </div>
-
 
