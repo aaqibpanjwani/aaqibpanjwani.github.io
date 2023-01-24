@@ -68,6 +68,7 @@ Photo dump of some serotonin boosting moments for myself
       <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/teddy%20glam%20shot.JPG?raw=true" alt="teddy glam shot" width="250"/>
       <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/baby%20teddy%20snuggles.JPG?raw=true" alt="baby teddy snuggles" width="225" height="340"/>
       <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/baby%20ted%20awoo.JPG?raw=true" alt="baby ted awoo" width="250"/>
+      <img src="https://github.com/aaqibpanjwani/aaqibpanjwani.github.io/blob/master/images/the%20pups%20exploring%20the%20new%20bedroom.JPEG?raw=true" alt="pups exploring the new bedroom" width="400" height="333"/>
    </div>
 
 
