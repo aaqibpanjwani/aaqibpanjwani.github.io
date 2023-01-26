@@ -27,4 +27,4 @@ permalink: /anger/
 19. ~~react~~
 20. **regulate**
 21. Repeat all steps if necessary as many times as possible, until exhausted, then proceed to the next step.
-22. **If all else fails, every single attempt has been "thwarted". Step. up. push. back. and leave.**
+22. **If all else fails, every single attempt has been "thwarted". Step. Up. Push. Back. and Leave.**
