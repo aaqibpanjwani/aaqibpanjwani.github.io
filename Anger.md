@@ -23,7 +23,7 @@ permalink: /anger/
 15. ~~react~~
 16. respond with something more forceful (think dog/wolf showing teeth)
 17. **Breath and relax**
-18. Remove myself before the "teeth" come out and it's not a reaction
+18. Remove myself before the "teeth" come out
 19. ~~react~~
 20. **regulate**
 21. Repeat all steps if necessary as many times as possible, until exhausted, then proceed to the next step.
