@@ -17,7 +17,7 @@ List of Useful Resources
 - [Psych2Go](https://www.youtube.com/@Psych2go)
 - [MulliganABrothers](https://www.youtube.com/@MulliganBrothers)
 - [Calm](https://www.youtube.com/@calm)
-- [BetterHelp](https://www.youtube.com/@BetterHelp/videos)
+- [BetterHelp Youtube](https://www.youtube.com/@BetterHelp/videos)
 - [Lofi Girl](https://www.youtube.com/@LofiGirl)
 ---
 ## Mental Health Help
