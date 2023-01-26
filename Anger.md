@@ -3,8 +3,8 @@ layout: page
 title: Anger
 permalink: /anger/
 ---
-
-Take a Pause
+# For when I am feeling angry 
+## Take a Pause
 ---
 1. ~~react~~
 2. Notice the physical sensations
