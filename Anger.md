@@ -28,3 +28,13 @@ permalink: /anger/
 20. **regulate**
 21. Repeat all steps if necessary as many times as possible, until exhausted, then proceed to the next step.
 22. **If all else fails, every single attempt has been "thwarted". Step. Up. Push. Back. and Leave.**
+
+---
+Post Anger/Reaction Bout
+---
+1. Reflect upon the situation
+2. Try to understand the other person(s) perspective from what I remember when trying to address the situation
+3. **Own my part.**
+4. Learn from the situation
+5. Forgive myself and others
+6. Move on
