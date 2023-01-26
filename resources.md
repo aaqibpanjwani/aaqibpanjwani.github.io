@@ -7,8 +7,10 @@ List of Useful Resources
 ---
 
 ---
+
 ## Phone number
 - 988 Suicide & Crisis Lifeline
+
 ---
 ## Helpful Youtube Videos/Channels
 - [Link to Youtube Meditation Playlist](https://www.youtube.com/playlist?list=PLZD3YmGgqEMZ-QJQS913uSOlqVy-M9EYZ)
@@ -19,6 +21,7 @@ List of Useful Resources
 - [Calm](https://www.youtube.com/@calm)
 - [BetterHelp Youtube](https://www.youtube.com/@BetterHelp/videos)
 - [Lofi Girl](https://www.youtube.com/@LofiGirl)
+
 ---
 ## Mental Health Help
 - [Cerebral](https://cerebral.com/)
